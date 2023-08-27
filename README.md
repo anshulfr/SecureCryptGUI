@@ -51,7 +51,6 @@ python -B main.py
 5. Browse and select the file/folder you want to process.
 6. Enter the encryption/decryption password.
 7. Click the "Perform Action" button to initiate the encryption/decryption process.
-Contributions are welcome! If you'd like to enhance the project or fix any issues, feel free to create pull requests.
 
 ## License
 
