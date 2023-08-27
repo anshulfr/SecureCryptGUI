@@ -32,7 +32,6 @@ cd SecureCryptGUI
 3. Install any necessary dependencies:
 
 ```
-# Example using pip
 pip install -r requirements.txt
 ```
 
