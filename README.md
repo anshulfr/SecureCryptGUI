@@ -26,7 +26,7 @@ git clone https://github.com/anshulnegii/SecureCryptGUI.git
 2. Navigate to the project directory:
 
 ```
-cd encryption-program
+cd SecureCryptGUI
 ```
 
 3. Install any necessary dependencies:
